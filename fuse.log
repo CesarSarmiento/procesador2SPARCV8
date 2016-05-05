@@ -1,0 +1,22 @@
+Running: /opt/14.7/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones_isim_beh.exe -prj /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones_beh.prj work.memoriaInstrucciones 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 37544 KB
+Fuse CPU Usage: 1320 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling architecture arq_memoriainstrucciones of entity memoriainstrucciones
+Time Resolution for simulation is 1ps.
+Compiled 6 VHDL Units
+Built simulation executable /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones_isim_beh.exe
+Fuse Memory Usage: 88668 KB
+Fuse CPU Usage: 1400 ms
+GCC CPU Usage: 160 ms

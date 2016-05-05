@@ -1,0 +1,4 @@
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones.vhi -module memoriaInstrucciones -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work memoriaInstrucciones.vhd 
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones.vhi -module memoriaInstrucciones -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work memoriaInstrucciones.vhd 
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones.vhi -module memoriaInstrucciones -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work memoriaInstrucciones.vhd 
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/memoriaInstrucciones.vhi -module memoriaInstrucciones -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work memoriaInstrucciones.vhd 

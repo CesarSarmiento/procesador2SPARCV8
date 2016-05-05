@@ -1,0 +1,2 @@
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/nextProgCounter.vhi -module nextProgCounter -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work nextProgCounter.vhd 
+vhdtdtfi -prj procesadorImmediatos -o /home/yengomez/Documents/procesadorImmediatos/nextProgCounter.vhi -module nextProgCounter -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work nextProgCounter.vhd 

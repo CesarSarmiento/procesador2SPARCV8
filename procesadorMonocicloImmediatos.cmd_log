@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/yengomez/Documents/procesadorImmediatos/procesadorMonocicloImmediatos.xst" -ofn "/home/yengomez/Documents/procesadorImmediatos/procesadorMonocicloImmediatos.syr" 

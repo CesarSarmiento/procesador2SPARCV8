@@ -1,0 +1,5 @@
+set -tmpdir "/home/yengomez/Documents/procesadorImmediatos/xst/projnav.tmp"
+set -xsthdpdir "/home/yengomez/Documents/procesadorImmediatos/xst"
+elaborate
+-ifn memoriaInstrucciones.prj
+-ifmt mixed
